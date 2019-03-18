@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="499" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" min="-2" pref="510" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Monospaced" size="12" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="tabSize" type="int" value="14"/>
+            <Property name="text" type="java.lang.String" value="&#x412;&#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x44d;&#x442;&#x43e;&#x439; &#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x438; &#x434;&#x430;&#x435;&#x442; &#x441;&#x43b;&#x435;&#x434;&#x443;&#x44e;&#x449;&#x435;&#x435;:&#xa;&#xa;&#x415;&#x441;&#x43b;&#x438; &#x432; &#x442;&#x435;&#x43a;&#x441;&#x442;&#x435; &#x43e;&#x431;&#x44a;&#x44f;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &#x435;&#x441;&#x442;&#x44c; &#x441;&#x43b;&#x43e;&#x432;&#x430; &#xa;&#xa;- &quot;&#x431;&#x43e;&#x435;&#x446;&quot; &#x438;&#x43b;&#x438; &quot;&#x431;&#x43e;&#x439;&#x446;&#x44b;&quot;, &#x430; &#x442;&#x430;&#x43a; &#x436;&#x435; &#x432;&#x441;&#x435; &#x438;&#x445; &#x441;&#x43a;&#x43b;&#x43e;&#x43d;&#x435;&#x43d;&#x438;&#x44f;, &#x442;&#x43e; &#x449;&#x435;&#x43b;&#x447;&#x43e;&#x43a; &#x43f;&#x43e; &#x43d;&#x438;&#x43c; &#xa;   &#x43c;&#x44b;&#x448;&#x43a;&#x43e;&#x439; &#x431;&#x443;&#x434;&#x435;&#x442; &#x43e;&#x442;&#x43a;&#x440;&#x44b;&#x432;&#x430;&#x442;&#x44c; &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x443; &#x441;&#x430;&#x439;&#x442;&#x430; &#x441; &#x447;&#x43b;&#x435;&#x43d;&#x430;&#x43c;&#x438; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x44b;;&#xa;&#xa;- &quot;&#x441;&#x43d;&#x430;&#x440;&#x44f;&#x436;&#x435;&#x43d;&#x438;&#x435;&quot;, &#x430; &#x442;&#x430;&#x43a; &#x436;&#x435; &#x432;&#x441;&#x435; &#x435;&#x433;&#x43e; &#x441;&#x43a;&#x43b;&#x43e;&#x43d;&#x435;&#x43d;&#x438;&#x44f;, &#x442;&#x43e; &#x449;&#x435;&#x43b;&#x447;&#x43e;&#x43a; &#x43f;&#x43e; &#x43d;&#x435;&#x43c;&#x443; &#xa;   &#x43c;&#x44b;&#x448;&#x43a;&#x43e;&#x439; &#x431;&#x443;&#x434;&#x435;&#x442; &#x43e;&#x442;&#x43a;&#x440;&#x44b;&#x432;&#x430;&#x442;&#x44c; &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x443; &#x441;&#x430;&#x439;&#x442;&#x430; &quot;&#x421;&#x43d;&#x430;&#x440;&#x44f;&#x436;&#x435;&#x43d;&#x438;&#x435;&quot;;&#xa;&#xa;- &quot;&#x432;&#x43e;&#x43e;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x435;&quot;, &#x430; &#x442;&#x430;&#x43a; &#x436;&#x435; &#x432;&#x441;&#x435; &#x435;&#x433;&#x43e; &#x441;&#x43a;&#x43b;&#x43e;&#x43d;&#x435;&#x43d;&#x438;&#x44f;, &#x442;&#x43e; &#x449;&#x435;&#x43b;&#x447;&#x43e;&#x43a; &#x43f;&#x43e; &#x43d;&#x435;&#x43c;&#x443; &#xa;   &#x43c;&#x44b;&#x448;&#x43a;&#x43e;&#x439; &#x431;&#x443;&#x434;&#x435;&#x442; &#x43e;&#x442;&#x43a;&#x440;&#x44b;&#x432;&#x430;&#x442;&#x44c; &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x443; &#x441;&#x430;&#x439;&#x442;&#x430; &quot;&#x412;&#x43e;&#x43e;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x435;&quot;;&#xa;&#xa;- &quot;&#x443;&#x441;&#x442;&#x430;&#x432;&quot;, &#x430; &#x442;&#x430;&#x43a; &#x436;&#x435; &#x432;&#x441;&#x435; &#x435;&#x433;&#x43e; &#x441;&#x43a;&#x43b;&#x43e;&#x43d;&#x435;&#x43d;&#x438;&#x44f;, &#x442;&#x43e; &#x449;&#x435;&#x43b;&#x447;&#x43e;&#x43a; &#x43f;&#x43e; &#x43d;&#x435;&#x43c;&#x443; &#x43c;&#x44b;&#x448;&#x43a;&#x43e;&#x439; &#xa;   &#x431;&#x443;&#x434;&#x435;&#x442; &#x43e;&#x442;&#x43a;&#x440;&#x44b;&#x432;&#x430;&#x442;&#x44c; &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x443; &#x441;&#x430;&#x439;&#x442;&#x430; &quot;&#x423;&#x441;&#x442;&#x430;&#x432;&quot;;&#xa;&#xa;- &quot;&#x43f;&#x440;&#x430;&#x432;&#x438;&#x43b;&#x430;&quot;, &#x430; &#x442;&#x430;&#x43a; &#x436;&#x435; &#x432;&#x441;&#x435; &#x435;&#x433;&#x43e; &#x441;&#x43a;&#x43b;&#x43e;&#x43d;&#x435;&#x43d;&#x438;&#x44f;, &#x442;&#x43e; &#x449;&#x435;&#x43b;&#x447;&#x43e;&#x43a; &#x43f;&#x43e; &#x43d;&#x435;&#x43c;&#x443; &#x43c;&#x44b;&#x448;&#x43a;&#x43e;&#x439;&#xa;   &#x431;&#x443;&#x434;&#x435;&#x442; &#x43e;&#x442;&#x43a;&#x440;&#x44b;&#x432;&#x430;&#x442;&#x44c; &#x441;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x443; &#x441;&#x430;&#x439;&#x442;&#x430; &quot;&#x41f;&#x440;&#x430;&#x432;&#x438;&#x43b;&#x430; &#x421;&#x442;&#x440;&#x430;&#x439;&#x43a;&#x431;&#x43e;&#x43b;&#x430;&quot;.&#xa;&#xa;&#x41f;&#x440;&#x438; &#x44d;&#x442;&#x43e;&#x43c; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x430; &#x443;&#x447;&#x438;&#x442;&#x44b;&#x432;&#x430;&#x435;&#x442; &#x43d;&#x435; &#x442;&#x43e;&#x43b;&#x44c;&#x43a;&#x43e; &#x441;&#x43a;&#x43b;&#x43e;&#x43d;&#x435;&#x43d;&#x438;&#x44f;, &#x43d;&#x43e; &#x438; &#x440;&#x435;&#x433;&#x438;&#x441;&#x442;&#x440;,&#xa;&#x442;&#x43e; &#x435;&#x441;&#x442;&#x44c; &#x43e;&#x43d;&#x430; &#x43e;&#x434;&#x438;&#x43d;&#x430;&#x43a;&#x43e;&#x432;&#x43e; &#x43d;&#x43e;&#x440;&#x43c;&#x430;&#x43b;&#x44c;&#x43d;&#x43e; &#x43e;&#x442;&#x440;&#x435;&#x430;&#x433;&#x438;&#x440;&#x443;&#x435;&#x442; &#x43d;&#x430;&#x43f;&#x440;&#x438;&#x43c;&#x435;&#x440; &#x43d;&#x430; &#x442;&#x430;&#x43a;&#x438;&#x435; &#xa;&#x432;&#x430;&#x440;&#x438;&#x430;&#x446;&#x438;&#x438;, &#x43a;&#x430;&#x43a; &quot;&#x432;&#x43e;&#x43e;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x435;&quot;, &quot;&#x412;&#x43e;&#x43e;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x435;&quot; &#x438; &quot;&#x412;&#x41e;&#x41e;&#x420;&#x423;&#x416;&#x415;&#x41d;&#x418;&#x415;&quot;.&#xa;&#xa;PS &#x415;&#x441;&#x43b;&#x438; &#x43f;&#x43e;&#x43d;&#x430;&#x434;&#x43e;&#x431;&#x438;&#x442;&#x44c;&#x441;&#x44f; &#x440;&#x430;&#x441;&#x448;&#x438;&#x440;&#x438;&#x442;&#x44c; &#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a; &#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x432;&#x44b;&#x445; &#x441;&#x43b;&#x43e;&#x432; - &#x442;&#x44b; &#x437;&#x43d;&#x430;&#x435;&#x448;&#x44c;,&#xa;&#x43a;&#x43e;&#x43c;&#x443; &#x43f;&#x438;&#x441;&#x430;&#x442;&#x44c; ;) &#xa;&#xa;&#xa;"/>
+            <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
